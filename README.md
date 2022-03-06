@@ -1,4 +1,4 @@
-# IP API project:
+# Pokémon Battle Calculator:
 
 A simple project made by [Zynade](https://github.com/Zynade), [farcat576](https://github.com/farcat576) and [Wadedacoder](https://github.com/Wadedacoder) as a bonus assignment for the *CSE101: Introduction to Programming* course offered at IIIT Delhi.
   

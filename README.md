@@ -1,6 +1,6 @@
 # IP API project:
 
-An api project made by [Zynade](https://github.com/Zynade),[Bob]() and [Wadedacoder](https://github.com/Wadedacoder) made for CSE 101: Introduction programming bonus assignment .It is a pokemon battle calculator.
+An api project made by [Zynade](https://github.com/Zynade),[Bob]() and [Wadedacoder](https://github.com/Wadedacoder) made for CSE 101: Introduction programming bonus assignment . It is a pokemon battle calculator.
   
   It takes two pokemons and their moves as input and then displays who will win as well as average damage done by each pokemon.
 

@@ -16,4 +16,4 @@ PokéAPI: https://pokeapi.co/
 
 Stat Growth Chart: https://bulbapedia.bulbagarden.net/wiki/Stat#Generation_III_onward
 
-#### Damage Calculation: https://bulbapedia.bulbagarden.net/wiki/Damage#Damage_calculation
+Damage Calculation: https://bulbapedia.bulbagarden.net/wiki/Damage#Damage_calculation
